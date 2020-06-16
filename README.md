@@ -1,4 +1,4 @@
-# AEi
+# DAEi
 Autoencoders for Drug-Target Interaction Prediction
 
 - **Run AEi**:
