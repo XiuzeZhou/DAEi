@@ -12,7 +12,7 @@ $ python DAEi.py --path datasets/ --data_name Enzyme --epoches 300 --batch_size 
 
 ## Parameter description：
 - path：Input data path.
-- data_name：Name of dataset
+- data_name：Name of dataset: Enzyme, Ion Channel, GPCR, Nuclear Receptor
 - epoches：Number of epoches.
 - batch_size：Batch size.
 - hidden_size：Hidden layer size, also Embedding size.
